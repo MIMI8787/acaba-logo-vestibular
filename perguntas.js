@@ -59,24 +59,24 @@ criaCartao(
     'A velocidade escalar média é a razão entre a distância total percorrida por um corpo e o tempo total gasto nesse percurso.')
     
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta')
+    'Matemática',
+    'O que é um número primo?',
+    'Um número primo é um número natural maior que 1 que tem apenas dois divisores: 1 e ele mesmo.')
     
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta')
+    ' História',
+    'O que foi o Tratado de Tordesilhas?',
+    'O Tratado de Tordesilhas foi um acordo assinado em 1494 entre Portugal e Espanha, que dividia as terras recém-descobertas fora da Europa entre os dois países.')
     
  criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta')
+    'Geografia',
+    'O que é a teoria das placas tectônicas?',
+    'A teoria das placas tectônicas afirma que a crosta terrestre é dividida em grandes placas que se movem sobre o manto, causando terremotos, vulcões e formação de montanhas.')
     
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta')
+    'Literatura',
+    ' Qual movimento literário é associado a José de Alencar? ',
+    'José de Alencar é associado ao Romantismo, particularmente na fase indianista da literatura brasileira.')
     
 criaCartao(
     'categoria',
