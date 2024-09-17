@@ -3,4 +3,17 @@
     --cor-texto: black;
     --cor-frente-cartao:#C0C0C0;
     --cor-verso-cartao: #6495ED;
+    --preto: black;
+    --branco: white;
+}
+
+body{
+    background-color: var(--fundo);
+}
+
+footer{
+    background-color: var(--preto);
+    color: var(--branco);
+    position: fixed;
+    bottom: 0;
 }
