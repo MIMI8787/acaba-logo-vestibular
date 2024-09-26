@@ -14,3 +14,4 @@ cartao.innerHTML = `
 </div>
 `
 container.appendChild(cartao);
+}
