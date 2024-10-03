@@ -20,7 +20,7 @@ function viraCartao(){
     respostaVisivel = !respostaVisivel;
     cartao.classList.toggle('active',respostaVisivel);
 }
-cartao.addEventListener('click', viraCartao)
+cartao.addEventListener('click', viraCartao);
 
 container.appendChild(cartao);
 }
