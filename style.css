@@ -6,6 +6,7 @@
     --preto: black;
     --branco: white;
     --destaque: #4169E1;
+    --letras: #4B0082;
 }
 
 body{
@@ -70,7 +71,7 @@ footer{
 }
 
 .cartao-resposta p{
-    color: var(--preto);
+    color: var(--letras);
     font-weight: 700;
 }
 
