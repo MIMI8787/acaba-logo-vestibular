@@ -5,6 +5,7 @@
     --cor-verso-cartao: #C0C0C0;
     --preto: black;
     --branco: white;
+    --destaque: #4169E1;
 }
 
 body{
@@ -88,4 +89,6 @@ footer{
 
 .cartao-resposta{
     transform: rotateY(180deg);
+    background-color: var(--cor-verso-cartao);
+    border: 4px solid var(--destaque);
 }

@@ -13,5 +13,13 @@ cartao.innerHTML = `
 </div>
 </div>
 `
+
+let respostaVisivel = false;
+
+function viraCartao(){
+    respostaVisivel = !respostaVisivel;
+    cartao.classList.toggle('active',respostaVisivel);
+}
+
 container.appendChild(cartao);
 }
