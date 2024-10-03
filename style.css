@@ -50,9 +50,9 @@ footer{
     text-align: left;
     padding: 0.5rem;
     position: absolute;
-    margin: 0.5rem;
+    margin: 0.6rem;
     border-radius: 0.6rem;
-    font-size: 1.4vw;
+    font-size: 1vw;
 }
 
 .cartao-conteudo p{
@@ -70,4 +70,8 @@ footer{
 .cartao-resposta p{
     color: var(--cor-verso-cartao);
     font-weight: 700;
+}
+
+.cartao:hover .cartao-conteudo{
+    transform: rotateY('180deg');
 }
