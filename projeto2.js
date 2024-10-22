@@ -17,5 +17,13 @@ function criaCartao(categoria, pergunta, resposta){
     container.appendChild(cartao);
     }
 
-
+function mostraResposta(card){
+    const resposta = card.querySelector('.cartao-reposta');
+    if(resposta.style.display === 'none'){
+        resposta.style.display = 'block';
+    }
+    else{
+        resposta.style.display = 'none';
+    }
+}
     
