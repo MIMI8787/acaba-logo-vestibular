@@ -21,6 +21,11 @@ header{
     justify-content: space-around;
 }
 
+header a{
+    color: var(--branco);
+    text-decoration: none;
+}
+
 footer{
     background-color: var(--preto);
     color: var(--branco);
