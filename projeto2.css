@@ -26,7 +26,6 @@ header a{
     text-decoration: none;
 }
 
-
 footer{
     background-color: var(--preto);
     color: var(--branco);
@@ -34,4 +33,10 @@ footer{
     bottom: 0;
     width: 100%;
     text-align: center;
+}
+
+#container{
+    display: grid;
+    padding: 2rem;
+    gap: 3rem;
 }
